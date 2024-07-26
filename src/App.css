@@ -10,6 +10,9 @@
 .f2:hover{
     color:rgb(255,255,0);
 }
+.f1:focus{
+    color:rgb(255, 255, 255);
+}
 .btn:hover{
     background-color: rgb(0, 0, 0);
     color:rgb(255,255,0);
